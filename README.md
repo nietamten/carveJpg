@@ -10,7 +10,7 @@ It is helpfull to recover images from damaged file systems.
 
 In case of damaged media 'ddrescue' program can be used.
 
-I think this way to recover files it's called "file carving".
+I think this way to recover files is called "file carving".
 
 Application reads byte-by-byte input file looking for three characters with witch every picture starts and uses libjpeg to try read image.
 
