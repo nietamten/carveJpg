@@ -4,9 +4,9 @@ Simple app for Linux searching for jpg files in selected file
 
 As parameter it takes input filename (it can be device file for example of disk).
 
-Founded images are saved in current directory.
+The images found are saved in current directory.
 
-It is hepfull to recover images from damaged file systems.
+It is helpfull to recover images from damaged file systems.
 
 In case of damaged media 'ddrescue' program can be used.
 
